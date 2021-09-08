@@ -10,5 +10,7 @@ package model;
  * @author home
  */
 public class Professeur {
-    
+    public static double Calcul(int sum){
+    return sum+10;
+    }
 }
